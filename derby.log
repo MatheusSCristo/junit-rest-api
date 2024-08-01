@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Thu Aug 01 08:01:54 BRT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0191-0d9a-7955-000001d2b278 
+on database directory memory:D:\Programacao\Java\junit-rest-api\eda75d35-35b9-4c63-87f3-673d6e72f50b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/C:/Users/Matheus/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.2+13-LTS-58
+user.dir=D:\Programacao\Java\junit-rest-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Aug 01 08:02:00 BRT 2024:
+Shutting down instance a816c00e-0191-0d9a-7955-000001d2b278 on database directory memory:D:\Programacao\Java\junit-rest-api\eda75d35-35b9-4c63-87f3-673d6e72f50b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
